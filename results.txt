@@ -1,0 +1,2 @@
+Validation Accuracy (Rule 1): 0.75
+Final Test Accuracy: 0.86
